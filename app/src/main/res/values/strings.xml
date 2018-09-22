@@ -1,3 +1,19 @@
 <resources>
 	<string name="app_name">KotlinToDo</string>
+	<string name="popup_menu_icon">Popup Menu Icon</string>
+	<string name="note_title">Note Title</string>
+	<string name="note_content">Note Content</string>
+	<string name="set_reminder">Set Reminder</string>
+	<string name="set_priority">Set Priority</string>
+	<string name="search_notes">Search Notes</string>
+	<string name="filter_notes">Filter Notes</string>
+	<string name="loading">Loading</string>
+	<string name="no_notes_saved">No Notes Saved</string>
+	<string name="ascending_name">Ascending Name</string>
+	<string name="descending_name">Descending Name</string>
+	<string name="highest_priority">Highest Priority</string>
+	<string name="lowest_priority">Lowest Priority</string>
+	<string name="low_priority">Low Priority</string>
+	<string name="medium_priority">Medium Priority</string>
+	<string name="high_priority">High Priority</string>
 </resources>
