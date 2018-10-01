@@ -10,7 +10,7 @@
 		android:orientation="vertical">
 
 		<EditText
-			android:id="@+id/editNoteTitle"
+			android:id="@+id/addNoteTitle"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
 			android:background="@android:color/white"
@@ -27,7 +27,7 @@
 			android:background="@color/divider" />
 
 		<EditText
-			android:id="@+id/editNoteContent"
+			android:id="@+id/addNoteContent"
 			android:layout_width="match_parent"
 			android:layout_height="match_parent"
 			android:background="@android:color/white"
